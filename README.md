@@ -13,6 +13,7 @@ where A, b are parametrs given in input, called respectively
 
 A detailed discussion of the iterative methods can be found in the 
 following link:
+
 http://www-users.cs.umn.edu/~saad/books.html
 https://en.wikipedia.org/wiki/Iterative_method
 
