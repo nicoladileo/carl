@@ -15,13 +15,18 @@ A detailed discussion of the iterative methods can be found in the
 following link:
 
 http://www-users.cs.umn.edu/~saad/books.html
+
 https://en.wikipedia.org/wiki/Iterative_method
 
 In order to run the program you need to use the syntax
+
 python carl.py <mtx file> [gauss|jacobi] <MAXITER> <TOLL>
+
 For default MAXITER is 100 and TOLL is 1e-4
 Examples:
 
 python carl.py pde225.mtx gauss
+
 python carl.py pde225.mtx jacobi 2000 
+
 python carl.py pde225.mtx jacobi 3000 1e-8
